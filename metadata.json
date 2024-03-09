@@ -1,10 +1,11 @@
 {
     "chainId": 101,
     "address": "5veztb1mPoanks6CsaLVD11Y7TJPqYHoRRoAJkL72ja4",
-    "symbol": "CAPY",
     "name": "Capybara Coin",
+    "symbol": "CAPY",
+    "description": "Capybara Coin is wild",
     "decimals": 0,
-    "logoURI": "https://raw.githubusercontent.com/kirislaw/capy/main/logo.jpeg",
+    "image": "https://raw.githubusercontent.com/kirislaw/capy/main/logo.jpeg",
     "tags": [
       "social-token"
     ]
